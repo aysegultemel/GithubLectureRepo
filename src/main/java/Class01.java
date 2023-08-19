@@ -7,5 +7,10 @@ public class Class01 {
         //version2 kodları
         System.out.println("version2");
 
+        System.out.println("version3");
+
+
+
+
     }
 }
