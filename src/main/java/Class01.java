@@ -9,6 +9,9 @@ public class Class01 {
 
         System.out.println("version3");
 
+        //version 6 kodları
+
+        System.out.println("version4");
 
 
 
